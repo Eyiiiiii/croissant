@@ -1,0 +1,26 @@
+.home {
+  margin-top: 20px;
+  color: #a07df4;
+  text-align: center;
+}
+
+.btn-one {
+  margin-bottom: 5px;
+}
+
+.btn-three {
+  margin-top: 20px;
+}
+
+button {
+  background-color: beige;
+  border-radius: 5px !important;
+}
+
+ul {
+  list-style: none;
+}
+
+.crois {
+  width: 400px;
+}
